@@ -1,0 +1,35 @@
+.login {
+    background-image: url(./h3.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 50vh;
+    background-position: center;
+    padding-top: 4rem;
+    
+    border: 1px solid #0c5ace;
+   
+    border-radius: 2px;
+    padding: 1rem;
+    align-items: center;
+    text-align: center;
+   resize: both;
+   overflow: auto;
+}
+
+.login > input {
+    
+    border-radius: 30px;
+    border: 2px solid #cf1d76;
+    outline: none;
+    color: #1e57ca;
+    margin: 0.5rem 0;
+    padding: 12px;
+   width: 250px;
+    font-size: 1rem;
+    margin-top: 10px; 
+  box-sizing: border-box;
+  resize: both;
+  overflow: auto;
+
+}
+

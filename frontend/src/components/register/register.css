@@ -1,0 +1,40 @@
+.register {
+   background-image: url(./r1.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 50vh;
+    background-position: center;
+    padding-top: 4rem;
+    border: 1px solid #0c5ace;
+    padding: 1rem;
+    align-items: center;
+    text-align: center;
+   resize: both;
+   overflow: auto;
+    
+    
+}
+
+.register > input {
+
+    border-radius: 30px;
+    border: 2px solid #e21c96;
+    outline: none;
+    color: #1d2129;
+    margin: 0.5rem 0;
+    padding: 0.5rem 0.75rem;
+    width: 250px;
+    font-size: 1rem;
+}
+
+.register > .button {
+    background: #1877f2;
+    border: 1px solid #1877f2;
+    color: #fff;
+    font-size: 1.25rem;
+    padding: 0.5rem;
+    margin: 0.5rem 0;
+    border-radius: 8px;
+    outline: none;
+    cursor: pointer;
+}
